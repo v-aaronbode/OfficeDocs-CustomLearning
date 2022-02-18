@@ -11,7 +11,7 @@ ms.service: sharepoint-online
 ---
 
 # Drive adoption of your learning pathways portal
-Once you've customized Microsoft 365 learning pathways and put together your initial learning campaigns, it’s time to think about how you will get users return to Microsoft 365 learning pathways for ongoing learning and transformation. You can use the guidance, adoption kit, and best practices Microsoft has made available To help you run successful Microsoft 365 learning pathways adoption campaigns, we offer guidance, best practices and an Adoption Kit. 
+Once you've customized Microsoft 365 learning pathways and put together your initial learning campaigns, it’s time to think about how you will get users return to Microsoft 365 learning pathways for ongoing learning and transformation. You can use the guidance, adoption kit, and best practices Microsoft has made available. To help you run successful Microsoft 365 learning pathways adoption campaigns, we offer guidance, best practices and an Adoption Kit. 
 
 ## Run awareness campaigns with Microsoft 365 learning pathway adoption kit
 To help drive sustained adoption of Microsoft 365 learning pathways in your organization, we recommend you implement a six to eight-week communication campaign. Your communication campaign should: 
